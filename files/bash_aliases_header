@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# This file is managed by puppet
+
+#
+# Common things
+#
+
+# Disable auto title, nice for keeping tmux window name manual
+DISABLE_AUTO_TITLE=true
+
+#
+# Aliases
+#
